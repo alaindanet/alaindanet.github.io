@@ -1,0 +1,15 @@
+---
+layout: feed
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title>Alain Danet's Blog</title> <link
+	href="http://alaindanet.github.io/blog/atom.xml" rel="self"/> <link
+	href="http://alaindanet.github.io/blog"/> <updated>{{ site.time |
+	date_to_xmlschema }}</updated>
+    <id>http://alaindanet.github.io/blog</id> <author> <name>Alain Danet</name> <email>alain.danet@caramail.fr</email> </author>
+
+    {% for post in site.posts %} 
+    <entry>
+	<title>{{ post.title }}</title>
