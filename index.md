@@ -14,4 +14,4 @@ title: Home
   me](mailto:alain.danet@umontpellier.fr)
 - [<i class="fa fa-github fa-lg" aria-hidden="true"></i> Look at my projects on github](https://github.com/alaindanet)
 - [<i class="ai ai-researchgate-square ai-lg" aria-hidden="true"></i> Visit my Research gate profile](https://www.researchgate.net/profile/Alain_Danet)
-- [<i class="fa fa-wikipedia-w fa-lg" aria-hidden="true"></i> Jump to a random wikipedia page](https://en.wikipedia.org/wiki/Special:Random)
+- [<i class="fa fa-wikipedia-w fa-lg" aria-hidden="true"></i> Jump to a random wikipedia page](https://en.wikipedia.org/wiki/Special:Random){:target="_blank"}
