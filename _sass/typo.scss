@@ -1,18 +1,16 @@
-@import url('https://fonts.googleapis.com/css?family=Open+Sans');
-@import url('https://fonts.googleapis.com/css?family=Amatic+SC');
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
 
-
-$body: "Times", serif;
-$title: "Amatic SC", sans-serif;
+$body: "Open Sans", serif;
+$title: "Montserrat", sans-serif;
 $code: "Courier New", monospace;
 
-h1, h2, h3, h4 {
+h1, h2, h3, h4, nav {
    font-family: $title;
 
 }
 
-body {
+body, footer {
     font-family: $body;
 }
-
 
