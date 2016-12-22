@@ -14,7 +14,7 @@ body {
 }
 
 nav ul, footer ul {
-    font-family: $title;
+    font-family: "Arial";
     padding: 0px;
     list-style: none;
     font-weight: bold;
