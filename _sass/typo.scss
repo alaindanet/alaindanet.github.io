@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC');
+
+
+$body: "Times", serif;
+$title: "Amatic SC", sans-serif;
+$code: "Courier New", monospace;
+
+h1, h2, h3, h4 {
+   font-family: $title;
+
+}
+
+body {
+    font-family: $body;
+}
+
+

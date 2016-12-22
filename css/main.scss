@@ -1,11 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Open+Sans');
-@import url('https://fonts.googleapis.com/css?family=Amatic+SC');
-
-
-$body: "Open Sans", serif;
-$title: "Amatic SC", sans-serif;
-$code: "Courier New", monospace;
-
+@import "typo";
 
 body {
     margin: 60px auto;
@@ -14,7 +7,6 @@ body {
 }
 
 nav ul, footer ul {
-    font-family: "Amatic SC";
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -37,21 +29,10 @@ a:hover {
     text-decoration: underline;
 }
 
-h1 {
-    font-size: 2em;
-    font-family:'Arial', 'Serif';
-}
-
-h2 {
-    font-size: 1.5em;
-    font-family:'Arial', 'Sans-Serif';
-}
-
 p {
     font-size: 1.0em;
     line-height: 1.4em;
     color: #333;
-    font-family:'Arial', 'Sans-Serif';
 }
 
 
