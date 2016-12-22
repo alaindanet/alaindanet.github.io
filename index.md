@@ -8,7 +8,9 @@ title: Home
 <link rel="stylesheet" href="css/academicons-1.7.0/css/academicons.min.css" />
 
 
-*I am PhD student in Ecology* at the University of Montpellier. You can [read more about my research](/research) or: 
+*I am PhD student in Ecology* at the University of Montpellier in the BioDICée lab. I am particularly interested in the species interactions and their impacts on the ecosystem functioning with a focus on plant communities.
+
+I invite you to [read more about my research](/research) or: 
 
 - [<i class="fa fa-envelope fa-lg" aria-hidden="true"></i> Email
   me](mailto:alain.danet@umontpellier.fr)

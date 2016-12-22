@@ -1,7 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
-    background-color: linen;
+    background-color: none;
 }
 
 nav ul, footer ul {
@@ -9,11 +9,11 @@ nav ul, footer ul {
     padding: 0px;
     list-style: none;
     font-weight: bold;
+    overflow: hidden;
 }
 
 nav ul li, footer ul li {
     display: inline;
-    margin-right: 20px;
 }
 
 a {
@@ -26,7 +26,7 @@ a:hover {
 }
 
 h1 {
-    font-size: 3em;
+    font-size: 2em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 
@@ -42,10 +42,11 @@ p {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 
-footer {
+footer, footer ul li {
     border-top: 1px solid #d5d5d5;
-    font-size: .8em;
+    font-size: .9em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    display: inline;
 }
 
 ul.posts { 
@@ -56,3 +57,38 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: blue;
+    position: fixed;
+    top: 0;
+    width: 70%;
+}
+
+nav li a, nav li b{
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 12px 10px;
+    text-decoration: none;
+}
+
+nav li b{
+    float: right;
+}
+
+nav li a:hover:not(.active) {
+    background-color: #111;
+}
+
+.active {
+    background-color: #4CAF50;
+}
+nav li a:hover {
+    background-color: #111;
+}
+
