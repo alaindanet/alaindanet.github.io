@@ -1,3 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC');
+
+
+$body: "Open Sans", serif;
+$title: "Amatic SC", sans-serif;
+$code: "Courier New", monospace;
+
+
 body {
     margin: 60px auto;
     width: 70%;
@@ -5,14 +14,17 @@ body {
 }
 
 nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family: $title;
     padding: 0px;
     list-style: none;
     font-weight: bold;
     overflow: hidden;
 }
 
-nav ul li, footer ul li {
+footer, footer ul li {
+    border-top: 1px solid #d5d5d5;
+    font-size: .9em;
+    font-family:'Arial', 'Sans-Serif';
     display: inline;
 }
 
@@ -27,27 +39,22 @@ a:hover {
 
 h1 {
     font-size: 2em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Arial', 'Serif';
 }
 
 h2 {
     font-size: 1.5em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Arial', 'Sans-Serif';
 }
 
 p {
     font-size: 1.0em;
     line-height: 1.4em;
     color: #333;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Arial', 'Sans-Serif';
 }
 
-footer, footer ul li {
-    border-top: 1px solid #d5d5d5;
-    font-size: .9em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    display: inline;
-}
+
 
 ul.posts { 
     margin: 20px auto 40px; 
