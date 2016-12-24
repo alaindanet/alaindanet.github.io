@@ -3,49 +3,43 @@
 
 @import "typo";
 
-$margin: 4em;
-
+$margin: 5em;
 
 html {
     //min-height: 100%;
     //background-size: cover;
     background-attachment: fixed;
     background-position: top center;
-    margin: $margin;
+    margin: 4em;
     margin-top: 0px;
 }
 
 body {
-    max-width: 900px;
-    margin: $margin auto;
+    max-width: 800px;
+    margin: auto;
+    margin-top:  $margin;
+    background-color: white;
 }
 
 nav {
+    padding: 0px 65px;
     background-color: lightblue;
     position: fixed;
-    max-width: 900px;
-    width:70%;
-    margin: 0px;
-    margin-top: -4em;
-    padding: 0px;
-    overflow: hidden;
+    max-width: 800px;
+    margin-top: -$margin;
     ul {
+    list-style-type: none;
     margin: 0;
-    list-style: none;
+    padding: 0;
     }
     li {
-	text-align: center;
-	display: inline;
+	float: left;
 	a {
-	    float: left;
-	    display: block;
+	    padding: 12px 26px;
+	    display:inline-block;
 	    color: white;
-	    padding: 14px 16px;
 	    text-decoration: none;   
-	}
-	b{
-	    padding: 12px 10px;
-	    float: right;
+	    text-align: center;
 	}
     }
 }
@@ -93,8 +87,10 @@ ul.posts li {
     list-style: none;
 }
 
-
-
-
-
-
+.scrolled {
+    position: fixed !important;
+    top: 0;
+    left: 0;
+    margin: 0px;
+    width: 100%;
+}
