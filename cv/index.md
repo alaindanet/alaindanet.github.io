@@ -5,13 +5,13 @@ title: cv
 
 ## Skills
 
-- *In situ* experiments : 
+- *In situ* experiments :
 	- South-East of Spain (2015-2016)
 	- Bolivia (2015)
 
 - Vegetation surveys:
 	- Brittany (2011)
-	- South of France (2016)
+	- South of France (2016; 2018)
 
 - Programming:
 	- R (theoretical and statistical modeling)
@@ -19,7 +19,7 @@ title: cv
 	- Git (version control)
 	- HTML and CSS basics (this website)
 
-- Teaching: 
+- Teaching:
 	- Theoretical modeling (Master degree)
 	- Statistics (Bachelor degree)
 	- General Biology (Bachelor degree)
@@ -38,9 +38,9 @@ title: cv
 ## Professional experiences
 
 - Employments:
-	- 2014-2017 (3 years): Contractual agent of the university of Montpellier at the BioDICée lab
-	- 2014 (1 month): contractual agent of the CNRS in the FORCAST lab 
-	- 2013 (2 months): contractual agent of the CNRS in the FORCAST lab 
+	- 2014-2017 (3 years): Contractual agent of the University of Montpellier at the BioDICée lab
+	- 2014 (1 month): Contractual agent of the CNRS in the FORCAST lab 
+	- 2013 (2 months): Contractual agent of the CNRS in the FORCAST lab 
 
 - Internships:
 	- 2014 (5 months): Theoretical modeling in the BioDICée Lab
@@ -48,5 +48,6 @@ title: cv
 	- 2011 (2 months): Vegetation survey at the CBNB
 	- 2010 (2 months): Experiment survey at the INRA station of Ploudaniel
 
+## 
 
 
