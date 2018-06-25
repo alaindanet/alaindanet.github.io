@@ -17,31 +17,43 @@
       
     
   
-  <meta name="description" content="Mathematical models together with empirical tests suggest that it may be
-possible to detect leading indicators, or early warnings, of approaching shifts
-in ecosystems. Previous studies have often relied on ecological systems where
-the stressor (e.g. temperature, precipitation) is assumed to act homogeneously
-in space. Many ecological systems are, however, prone to spatially heterogeneous
-stresses (or ‘spatial stressors’), such as grazing, whose strength vary as a
-function of local vegetation patchiness. Here, we employed three well-studied
-spatially explicit ecological models to investigate how spatial stressors
-influence (a) the dynamics and resilience of ecosystems and (b) the robustness
-of early warnings of approaching ecosystem shifts. Mean-field and numerical
-simulations of the models suggested that spatial stressors could affect the
-stability and the number of equilibria of the system. Trends of spatial and
-temporal indicators were broadly consistent with the theory, i.e. they exhibited
-increasing trends as the system approached ecosystem shifts. However, in two of
-the three models, at high levels of spatial stress, spatial indicators could
-either exhibit trends opposite to those expected by the theory, or show no
-signals at all. Our results suggest that spatial stressors can interfere with
-the spatial patterns and thereby with the theoretically expected trends of early
-warning signals of ecosystem shifts. This highlights, once again, the importance
-of having a good knowledge of the ecosystem under study to be able to accurately
-interpret the indicator trends observed.
+  <meta name="description" content="1. Some ecosystems show non-linear responses to gradual changes in
+environmental conditions, once a threshold in conditions - or critical point -
+is passed. This can lead to wide shifts in ecosystem states, possibly with
+dramatic ecological and economic consequences. Such behaviors have been reported
+in drylands, savannas, coral reefs or shallow lakes for example. Important
+research effort of the last decade has been devoted to identify indicators that
+would help anticipate such ecosystem shifts and avoid their negative
+consequences.
+
+2. Theoretical and empirical research has shown that, as an ecosystem
+approaches a critical point, specific signatures arise in its temporal and
+spatial dynamics; these changes can be quantified using relatively simple
+statistical metrics that have been referred to as `early warning signals&#39; (EWS)
+in the literature. Although tests of those EWS on experiments
+are promising, empirical evidence from out-of-lab datasets is 
+still scarce, in particular for spatial EWS. 
+The recent proliferation of remote-sensing data provides an opportunity to 
+improve this situation and evaluate the reliability of spatial EWS in many 
+ecological systems.
+
+3. Here, we present a step-by-step workflow along with an associated code
+to compute spatial EWS from raster data such as aerial images, test their
+significance compared to permutation-based null models, and display
+their trends, either at different time steps or along environmental gradients.
+We created the R-package `spatialwarnings` (MIT license)
+to help achieve all these steps in a reliable and reproducible way, and 
+thereby promote the application of spatial EWS to empirical data.
+
+4. This software package and associated documentation provides an easy
+entry-point for researchers and managers into spatial EWS-based analyses. By
+facilitating a broader application, it will leverage the evaluation of spatial
+EWS in real data, and eventually contribute to provide tools to map ecosystems&#39; 
+fragility to perturbations and inform management decisions.
 ">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://alaindanet.github.io/publication/heterogeneous-stressors/">
+  <link rel="alternate" hreflang="en-us" href="https://alaindanet.github.io/publication/spatial-warnings/">
 
   
 
@@ -89,34 +101,46 @@ interpret the indicator trends observed.
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://alaindanet.github.io/publication/heterogeneous-stressors/">
+  <link rel="canonical" href="https://alaindanet.github.io/publication/spatial-warnings/">
 
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="Alain Danet">
-  <meta property="og:url" content="https://alaindanet.github.io/publication/heterogeneous-stressors/">
-  <meta property="og:title" content="Spatially heterogeneous stressors can alter the performance of indicators of regime shifts | Alain Danet">
-  <meta property="og:description" content="Mathematical models together with empirical tests suggest that it may be
-possible to detect leading indicators, or early warnings, of approaching shifts
-in ecosystems. Previous studies have often relied on ecological systems where
-the stressor (e.g. temperature, precipitation) is assumed to act homogeneously
-in space. Many ecological systems are, however, prone to spatially heterogeneous
-stresses (or ‘spatial stressors’), such as grazing, whose strength vary as a
-function of local vegetation patchiness. Here, we employed three well-studied
-spatially explicit ecological models to investigate how spatial stressors
-influence (a) the dynamics and resilience of ecosystems and (b) the robustness
-of early warnings of approaching ecosystem shifts. Mean-field and numerical
-simulations of the models suggested that spatial stressors could affect the
-stability and the number of equilibria of the system. Trends of spatial and
-temporal indicators were broadly consistent with the theory, i.e. they exhibited
-increasing trends as the system approached ecosystem shifts. However, in two of
-the three models, at high levels of spatial stress, spatial indicators could
-either exhibit trends opposite to those expected by the theory, or show no
-signals at all. Our results suggest that spatial stressors can interfere with
-the spatial patterns and thereby with the theoretically expected trends of early
-warning signals of ecosystem shifts. This highlights, once again, the importance
-of having a good knowledge of the ecosystem under study to be able to accurately
-interpret the indicator trends observed.
+  <meta property="og:url" content="https://alaindanet.github.io/publication/spatial-warnings/">
+  <meta property="og:title" content="Monitoring ecosystem degradation using spatial data and the R package spatialwarnings | Alain Danet">
+  <meta property="og:description" content="1. Some ecosystems show non-linear responses to gradual changes in
+environmental conditions, once a threshold in conditions - or critical point -
+is passed. This can lead to wide shifts in ecosystem states, possibly with
+dramatic ecological and economic consequences. Such behaviors have been reported
+in drylands, savannas, coral reefs or shallow lakes for example. Important
+research effort of the last decade has been devoted to identify indicators that
+would help anticipate such ecosystem shifts and avoid their negative
+consequences.
+
+2. Theoretical and empirical research has shown that, as an ecosystem
+approaches a critical point, specific signatures arise in its temporal and
+spatial dynamics; these changes can be quantified using relatively simple
+statistical metrics that have been referred to as `early warning signals&#39; (EWS)
+in the literature. Although tests of those EWS on experiments
+are promising, empirical evidence from out-of-lab datasets is 
+still scarce, in particular for spatial EWS. 
+The recent proliferation of remote-sensing data provides an opportunity to 
+improve this situation and evaluate the reliability of spatial EWS in many 
+ecological systems.
+
+3. Here, we present a step-by-step workflow along with an associated code
+to compute spatial EWS from raster data such as aerial images, test their
+significance compared to permutation-based null models, and display
+their trends, either at different time steps or along environmental gradients.
+We created the R-package `spatialwarnings` (MIT license)
+to help achieve all these steps in a reliable and reproducible way, and 
+thereby promote the application of spatial EWS to empirical data.
+
+4. This software package and associated documentation provides an easy
+entry-point for researchers and managers into spatial EWS-based analyses. By
+facilitating a broader application, it will leverage the evaluation of spatial
+EWS in real data, and eventually contribute to provide tools to map ecosystems&#39; 
+fragility to perturbations and inform management decisions.
 ">
   <meta property="og:locale" content="en-us">
   
@@ -128,7 +152,7 @@ interpret the indicator trends observed.
   
   
 
-  <title>Spatially heterogeneous stressors can alter the performance of indicators of regime shifts | Alain Danet</title>
+  <title>Monitoring ecosystem degradation using spatial data and the R package spatialwarnings | Alain Danet</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#toc" data-offset="71" >
@@ -248,10 +272,10 @@ interpret the indicator trends observed.
 
 
   <div class="article-container">
-    <h1 itemprop="name">Spatially heterogeneous stressors can alter the performance of indicators of regime shifts</h1>
+    <h1 itemprop="name">Monitoring ecosystem degradation using spatial data and the R package spatialwarnings</h1>
     <span class="pub-authors" itemprop="author">
       
-      A Génin, S Majumder, S Sankaran, FD Schneider, A Danet, M Berdugo, V Guttal, S Kéfi
+      A Génin, S Majumder, S Sankaran, A Danet, V Guttal, FD Schneider, S Kéfi
       
     </span>
     <span class="pull-right">
@@ -260,35 +284,35 @@ interpret the indicator trends observed.
   <ul class="share">
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=Spatially%20heterogeneous%20stressors%20can%20alter%20the%20performance%20of%20indicators%20of%20regime%20shifts&amp;url=https%3a%2f%2falaindanet.github.io%2fpublication%2fheterogeneous-stressors%2f"
+         href="https://twitter.com/intent/tweet?text=Monitoring%20ecosystem%20degradation%20using%20spatial%20data%20and%20the%20R%20package%20spatialwarnings&amp;url=https%3a%2f%2falaindanet.github.io%2fpublication%2fspatial-warnings%2f"
          target="_blank" rel="noopener">
         <i class="fa fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2falaindanet.github.io%2fpublication%2fheterogeneous-stressors%2f"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2falaindanet.github.io%2fpublication%2fspatial-warnings%2f"
          target="_blank" rel="noopener">
         <i class="fa fa-facebook"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2falaindanet.github.io%2fpublication%2fheterogeneous-stressors%2f&amp;title=Spatially%20heterogeneous%20stressors%20can%20alter%20the%20performance%20of%20indicators%20of%20regime%20shifts"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2falaindanet.github.io%2fpublication%2fspatial-warnings%2f&amp;title=Monitoring%20ecosystem%20degradation%20using%20spatial%20data%20and%20the%20R%20package%20spatialwarnings"
          target="_blank" rel="noopener">
         <i class="fa fa-linkedin"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2falaindanet.github.io%2fpublication%2fheterogeneous-stressors%2f&amp;title=Spatially%20heterogeneous%20stressors%20can%20alter%20the%20performance%20of%20indicators%20of%20regime%20shifts"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2falaindanet.github.io%2fpublication%2fspatial-warnings%2f&amp;title=Monitoring%20ecosystem%20degradation%20using%20spatial%20data%20and%20the%20R%20package%20spatialwarnings"
          target="_blank" rel="noopener">
         <i class="fa fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=Spatially%20heterogeneous%20stressors%20can%20alter%20the%20performance%20of%20indicators%20of%20regime%20shifts&amp;body=https%3a%2f%2falaindanet.github.io%2fpublication%2fheterogeneous-stressors%2f">
+         href="mailto:?subject=Monitoring%20ecosystem%20degradation%20using%20spatial%20data%20and%20the%20R%20package%20spatialwarnings&amp;body=https%3a%2f%2falaindanet.github.io%2fpublication%2fspatial-warnings%2f">
         <i class="fa fa-envelope"></i>
       </a>
     </li>
@@ -302,27 +326,42 @@ interpret the indicator trends observed.
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">Mathematical models together with empirical tests suggest that it may be
-possible to detect leading indicators, or early warnings, of approaching shifts
-in ecosystems. Previous studies have often relied on ecological systems where
-the stressor (e.g. temperature, precipitation) is assumed to act homogeneously
-in space. Many ecological systems are, however, prone to spatially heterogeneous
-stresses (or ‘spatial stressors’), such as grazing, whose strength vary as a
-function of local vegetation patchiness. Here, we employed three well-studied
-spatially explicit ecological models to investigate how spatial stressors
-influence (a) the dynamics and resilience of ecosystems and (b) the robustness
-of early warnings of approaching ecosystem shifts. Mean-field and numerical
-simulations of the models suggested that spatial stressors could affect the
-stability and the number of equilibria of the system. Trends of spatial and
-temporal indicators were broadly consistent with the theory, i.e. they exhibited
-increasing trends as the system approached ecosystem shifts. However, in two of
-the three models, at high levels of spatial stress, spatial indicators could
-either exhibit trends opposite to those expected by the theory, or show no
-signals at all. Our results suggest that spatial stressors can interfere with
-the spatial patterns and thereby with the theoretically expected trends of early
-warning signals of ecosystem shifts. This highlights, once again, the importance
-of having a good knowledge of the ecosystem under study to be able to accurately
-interpret the indicator trends observed.</p>
+    <p class="pub-abstract" itemprop="text"><ol>
+<li><p>Some ecosystems show non-linear responses to gradual changes in
+environmental conditions, once a threshold in conditions - or critical point -
+is passed. This can lead to wide shifts in ecosystem states, possibly with
+dramatic ecological and economic consequences. Such behaviors have been reported
+in drylands, savannas, coral reefs or shallow lakes for example. Important
+research effort of the last decade has been devoted to identify indicators that
+would help anticipate such ecosystem shifts and avoid their negative
+consequences.</p></li>
+
+<li><p>Theoretical and empirical research has shown that, as an ecosystem
+approaches a critical point, specific signatures arise in its temporal and
+spatial dynamics; these changes can be quantified using relatively simple
+statistical metrics that have been referred to as `early warning signals&rsquo; (EWS)
+in the literature. Although tests of those EWS on experiments
+are promising, empirical evidence from out-of-lab datasets is
+still scarce, in particular for spatial EWS.
+The recent proliferation of remote-sensing data provides an opportunity to
+improve this situation and evaluate the reliability of spatial EWS in many
+ecological systems.</p></li>
+
+<li><p>Here, we present a step-by-step workflow along with an associated code
+to compute spatial EWS from raster data such as aerial images, test their
+significance compared to permutation-based null models, and display
+their trends, either at different time steps or along environmental gradients.
+We created the R-package <code>spatialwarnings</code> (MIT license)
+to help achieve all these steps in a reliable and reproducible way, and
+thereby promote the application of spatial EWS to empirical data.</p></li>
+
+<li><p>This software package and associated documentation provides an easy
+entry-point for researchers and managers into spatial EWS-based analyses. By
+facilitating a broader application, it will leverage the evaluation of spatial
+EWS in real data, and eventually contribute to provide tools to map ecosystems&rsquo;
+fragility to perturbations and inform management decisions.</p></li>
+</ol>
+</p>
     
 
     
@@ -351,7 +390,7 @@ interpret the indicator trends observed.</p>
       <div class="col-sm-10">
         <div class="row">
           <div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div>
-          <div class="col-xs-12 col-sm-9"><em>Ecological Indicators</em>. In press</div>
+          <div class="col-xs-12 col-sm-9"><em>Methods in Ecology &amp; Evolution</em>. Accepted</div>
         </div>
       </div>
       <div class="col-sm-1"></div>
@@ -396,10 +435,6 @@ interpret the indicator trends observed.</p>
 
 
 
-
-<a class="btn btn-primary btn-outline" href="https://www.sciencedirect.com/science/article/pii/S1470160X17307082" target="_blank" rel="noopener">
-  Source Document
-</a>
 
 
 
