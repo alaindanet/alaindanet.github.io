@@ -1,0 +1,12 @@
+---
+title: "Positive interactions in plant communities"
+image: "wetland.png"
+description: "Understanding the consequences of positive interactions on
+community structure and ecosystem functioning"
+---
+
+# Facilitation effects on functional trait distribution
+
+![](wetland.png)
+
+# Facilitation effects on ecosystem functioning

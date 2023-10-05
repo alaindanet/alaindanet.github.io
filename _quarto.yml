@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  favicon: img/logo.png
+  title: "Alain Danet"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: project.qmd
+        text: Research projects
+      - href: publications.qmd
+      - about.qmd
+  page-footer:
+    left: "Copyright 2023, Alain Danet"
+    right:
+      - icon: github
+        href: https://github.com/alaindanet
+
+format:
+  html:
+    theme: minty
+    css: styles.css
+    toc: true

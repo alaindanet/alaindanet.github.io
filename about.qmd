@@ -1,0 +1,5 @@
+---
+title: "About"
+---
+
+This website has been generated using the fantastic documentation of [quarto](https://quarto.org/docs/websites/).

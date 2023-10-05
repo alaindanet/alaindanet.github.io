@@ -1,0 +1,51 @@
+---
+title: Community ecologist
+image: img/alain_photo_pro.jpeg
+alt-image: "Credit Owen Petchey 2023"
+about:
+  template: trestles
+  id: hero-heading
+  links:
+    - icon: mailbox
+      text: Mail
+      href: mailto:a.h.danet@sheffield.ac.uk
+    - icon: google
+      text: Scholar
+      href: https://scholar.google.com/citations?user=iijI6msAAAAJ&hl=en
+    - icon: github
+      text: Github
+      href: https://github.com/alaindanet
+---
+
+:::{#hero-heading}
+
+**Food-webs :: Stability :: Positive interactions**
+
+I am currently in post-doc at the University of Sheffield (UK) in [Pr Andrew
+Beckerman's lab](https://andbeck.github.io/beckslab/). I am mainly working on how food web structure affect community
+stability and affect their response to environmental pressures. I also work my
+research interests cover biodiversity trends and positive interactions among
+species.
+
+You can have a look at my [reseach projects](project.html) and my
+[publications](publications.html). You can retrieve my work on [google
+scholar](https://scholar.google.com/citations?user=iijI6msAAAAJ&hl=en) and
+[research gate](https://www.researchgate.net/profile/Alain-Danet).
+
+You can reach me at [a.h.danet[at]sheffield.ac.uk](mailto:a.h.danet@sheffield.ac.uk).
+
+:::
+
+# Education
+
+- 2017 | PhD in Biodiversity & Ecology | University of Montpellier
+- 2014 | Master in Evolutionary Biology and Ecology | University of Montpellier
+- 2012 | BSc in Population Biology | University of Western Brittany
+
+# Experience
+
+
+- 2023- | Post-doc | University of Sheffield
+- 2021-2023 | Post-doc | Illinois State University
+- 2018-2021 | Post-doc | Natural History Museum of Paris
+- 2014-2017 | PhD in Biodiversity & Ecology | University of Montpellier

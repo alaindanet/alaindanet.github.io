@@ -1,0 +1,10 @@
+---
+title: "Publications"
+bibliography: mespublis.bib
+nocite: |
+  @*
+---
+
+You can retrieve my work on [google
+scholar](https://scholar.google.com/citations?user=iijI6msAAAAJ&hl=en) and
+[research gate](https://www.researchgate.net/profile/Alain-Danet).

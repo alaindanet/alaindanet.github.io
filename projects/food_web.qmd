@@ -1,0 +1,24 @@
+---
+title: "Stability in complex food webs"
+image: "fish_foodweb.png"
+description: "Understanding how food web structure determine the temporal
+stability of ecological communities"
+---
+
+How biodiversity determines temporal stability is a central question in
+ecology. This question has been adressed quite a lot in grasslands and other
+species assemblages. However, the effects of food-web have been overlooked.
+
+Trophic interactions, by their effects of biomass fluxes, can have tremendous
+effects on community stability. For example, generalist predators can stabilise
+their preys.
+
+# Effect of species richness and food web structure on temporal stability
+
+![](fig1cd_final.png)
+
+# Theoretical models
+
+![](smallmodule_stoc_model.png)
+
+
