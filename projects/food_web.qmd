@@ -5,20 +5,22 @@ description: "Understanding how food web structure determine the temporal
 stability of ecological communities"
 ---
 
-Understanding the link between biodiversity and ecosystem functioning is essential to provide
-evidence-based policy to conserve and manage ecosystems. Previous research showed that species
-richness increases community biomass by increasing niche complementarity, and increases
-community stability mostly by increasing asynchrony in species fluctuations (Thibaut & Connolly,
-2013; Tilman et al., 2006). Temporal community stability is often measured as the inverse of the
-coefficient of variation of biomass/abundance, which can be partitioned into species stability and
-asynchrony (Thibaut & Connolly, 2013; Zhao et al., 2022). Most of our knowledge on ecosystem
-functioning is based on a restricted set of organisms, namely plant assemblages, which poorly
-reflect the complexity of natural communities as they do not include primary and secondary
-consumers. I have focused on extending our knowledge of the link between biodiversity and
-ecosystem functioning to more complex communities, i.e. food webs, using empirical and
-theoretical approaches during two of my post-docs, one at MNHN (Paris, 2018-2021) with Colin
-Fontaine, Maud Mouchet, and Élisa Thébault, and one ongoing at Sheffield (UK, 2022-now) with
-Andrew Beckerman.
+Understanding the link between biodiversity and ecosystem functioning is
+essential to provide evidence-based policy to conserve and manage ecosystems.
+Previous research showed that species richness increases community biomass by
+increasing niche complementarity, and increases community stability mostly by
+increasing asynchrony in species fluctuations (Thibaut & Connolly, 2013; Tilman
+et al., 2006). Temporal community stability is often measured as the inverse of
+the coefficient of variation of biomass/abundance, which can be partitioned into
+species stability and asynchrony (Thibaut & Connolly, 2013; Zhao et al., 2022).
+Most of our knowledge on ecosystem functioning is based on a restricted set of
+organisms, namely plant assemblages, which poorly reflect the complexity of
+natural communities as they do not include primary and secondary consumers. I
+have focused on extending our knowledge of the link between biodiversity and
+ecosystem functioning to more complex communities, i.e. food webs, using
+empirical and theoretical approaches during two of my post-docs, one at MNHN
+(Paris, 2018-2021) with Colin Fontaine, Maud Mouchet, and Élisa Thébault, and
+one ongoing at Sheffield (UK, 2022-now) with Andrew Beckerman.
 
 # Effect of species richness and food web structure on temporal stability
 
@@ -69,15 +71,15 @@ Bonnici and Sonia Kéfi (Lajaaiti et al., 2024). My model includes response
 diversity of species to environmental stochasticity, i.e. the ability of species
 to respond differently to the same environmental change, the crucial mechanism
 that generates asynchrony in species fluctuations and then positive
-stability-species richness relationships. We found that response diversity and species richness
-jointly increase asynchrony also in complex food webs.
-food web structural properties, such as average trophic level, connectance (a
-measure of complexity), and average interaction strength, all decrease
-asynchrony. We further found, as in empirical data (Danet et al., 2021), that
-increasing average trophic level increases population stability. Overall, we
-also found positive community stability - species richness relationships, but
-only when response diversity was high. High response diversity was indeed
-increasing asynchrony. However, high number of species interactions (i.e. higher
+stability-species richness relationships. We found that response diversity and
+species richness jointly increase asynchrony also in complex food webs. food web
+structural properties, such as average trophic level, connectance (a measure of
+complexity), and average interaction strength, all decrease asynchrony. We
+further found, as in empirical data (Danet et al., 2021), that increasing
+average trophic level increases population stability. Overall, we also found
+positive community stability - species richness relationships, but only when
+response diversity was high. High response diversity was indeed increasing
+asynchrony. However, high number of species interactions (i.e. higher
 connectance) and high average trophic level were resulting in negative
 stability-richness relationships, because they were dampening asynchrony (Figure
 6, bottom panel). This study thus confirmed our initial hypothesis drawn from
@@ -85,7 +87,7 @@ empirical fish communities (Danet et al., 2021), namely that trophic interaction
 can limit asynchrony among species. Then, our research showed that response
 diversity and species richness increase community stability in complex food webs
 as in plant communities, but that it depends on food web structure. In turn, we
-also showed that a decrease in species response diversity and changes in
-food web structure could lead to a decrease in the stability of ecological
-communities (Danet et al., in prep for Nature Ecology & Evolution).
+also showed that a decrease in species response diversity and changes in food
+web structure could lead to a decrease in the stability of ecological
+communities (Danet et al., in prep).
 

@@ -21,7 +21,7 @@ about:
 
 
 I am currently in post-doc at the University of Sheffield (UK) in [Pr Andrew
-Beckerman's lab](https://andbeck.github.io/beckslab/). I am mainly working on
+Beckerman's lab](https://beckslab.github.io/website/). I am mainly working on
 how food web structure affect community stability and affect their response to
 environmental pressures. My research interests also cover biodiversity
 trends and positive interactions among species.
