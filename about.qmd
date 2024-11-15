@@ -2,4 +2,18 @@
 title: "About"
 ---
 
+# Education
+
+- 2017 | PhD in Biodiversity & Ecology | University of Montpellier
+- 2014 | Master in Evolutionary Biology and Ecology | University of Montpellier
+- 2012 | BSc in Population Biology | University of Western Brittany
+
+# Experience
+
+- 2022- | Post-doc | University of Sheffield
+- 2021-2022 | Post-doc | Illinois State University
+- 2018-2021 | Post-doc | Natural History Museum of Paris
+- 2014-2017 | PhD in Biodiversity & Ecology | University of Montpellier
+
+
 This website has been generated using the fantastic documentation of [quarto](https://quarto.org/docs/websites/).
