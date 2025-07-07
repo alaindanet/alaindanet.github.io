@@ -2,95 +2,45 @@
 title: "Publications"
 ---
 
-You can retrieve my work on [google
+You can retrieve all my publications on [google
 scholar](https://scholar.google.com/citations?user=iijI6msAAAAJ&hl=en) and
 [research gate](https://www.researchgate.net/profile/Alain-Danet).
 
-# Selected publications
+## Selected publications
+
+1. **Bonnaffé, W.**, **Danet, A.**, **Leclerc, C.**, Froissard, V., Edeline, E., & Sentis, A. (2024).
+   *The interaction between warming and enrichment accelerates food-web simplification in freshwater systems.*
+   **Ecology Letters**, 27, e14480. [doi.org/10.1111/ele.14480](https://doi.org/10.1111/ele.14480)
+
+   **Featured in numerous outlets such as:**
+   [*Sheffield University News*](https://www.sheffield.ac.uk/news/warming-water-temperatures-and-increased-nutrient-levels-are-putting-freshwater-ecosystems-serious),
+   [*INRAE news*](https://www.inrae.fr/en/news/warming-and-nutrient-enrichment-combined-effects-freshwater-systems),
+   [*The Guardian*](https://www.theguardian.com/environment/article/2024/aug/30/aquatic-life-under-threat-as-pollution-and-warmer-waters-wreak-havoc),
+   [*The Star Sheffield*](https://www.thestar.co.uk/news/environment/sheffield-university-river-pollution-warming-waters-dangerous-combination-4745090), [*Notre environnement* (french gov)](https://www.notre-environnement.gouv.fr/actualites/breves/article/une-etude-de-l-inrae-montre-les-effets-du-rechauffement-et-de-l-exces-de).
+
+1. **Danet, A.**, Bautista, S., Génin, A., Beckerman, A. P., Anthelme, F., & Kéfi, S. (2024).
+   *Species diversity promotes facilitation under stressful conditions.*
+   **Oikos**, e10303. [doi.org/10.1111/oik.10303](https://doi.org/10.1111/oik.10303)
+
+   **Featured in:** [*CNRS News*](https://www.inee.cnrs.fr/fr/cnrsinfo/des-plantes-facilitatrices-participent-au-maintien-de-la-biodiversite-en-cas-de-secheresse),
+   [*France Culture*](https://www.radiofrance.fr/franceculture/podcasts/avec-sciences/avec-sciences-chronique-du-mercredi-19-juin-2024-9213205)  (french national radio),
+   [*IRD Le Mag'*](https://lemag.ird.fr/en/drylands-greater-plant-diversity-increases-mutual-benefits-species) (outlet of the Research Institute for development),
+   [*Radio Campus Montpellier*](https://www.radiocampusmontpellier.fr/podcast/stimuli-06-03-2025/) (University radio),
+   [*Notre environnement (french gov)*](https://www.notre-environnement.gouv.fr/actualites/breves/article/en-zones-arides-des-plantes-necessaires-a-la-survie-des-especes-vegetales).
 
 
-# All publications
+1. **Danet, A.**, Giam, X., Olden, J. D., & Comte, L. (2024).
+   *Past and recent anthropogenic pressures drive rapid changes in riverine fish communities.*
+   **Nature Ecology & Evolution** [doi.org/10.1038/s41559-023-02271-x](https://doi.org/10.1038/s41559-023-02271-x)
 
-## Submitted
+   Featured in [*Nature News & Views*](https://doi.org/10.1038/s41559-024-02328-5),
+   and [*Newsweek*](https://www.newsweek.com/american-rivers-filling-invasive-fish-threat-1871205).
 
-Danet, A., Kefi, S., Johnson, T. F., & Beckerman, A. P. (2024). Response diversity is a major driver of temporal stability in complex food webs (p. 2024.08.29.610288). bioRxiv. https://doi.org/10.1101/2024.08.29.610288
+1. **Danet, A.**, Mouchet, M., Bonnaffé, W., Thébault, E., & Fontaine, C. (2021).
+   *Species richness and food-web structure jointly drive community biomass and its temporal stability in fish communities.*
+   **Ecology Letters**, 24(11), 2364–2377. [doi.org/10.1111/ele.13857](https://doi.org/10.1111/ele.13857)
 
-Lajaaiti, I., Bonnici, I., Kéfi, S., Mayall, H., Danet, A., Beckerman, A. P., Malpas, T., & Delmas, E. (2024). EcologicalNetworksDynamics.jl A Julia package to simulate the temporal dynamics of complex ecological networks (p. 2024.03.20.585899). bioRxiv. https://doi.org/10.1101/2024.03.20.585899
+   Featured in [*Faculty Opinions*](https://doi.org/10.3410/f.740718442.793588374).
 
-Roemer, C., Fromont, C., Barot, S., Couvet, D., Danet, A., Martin, J.-L., Navas, M.-L., Monnet, A.-C., & Matudini, F. (n.d.). Unveiling the positive and negative of researcher-stakeholder interactions in ecology and evolution [In review in Biolocal Conservation].
 
-## In press
 
-Bonnaffé, W., Danet, A., Leclerc, C., Frossard, V., Edeline, E., & Sentis, A.
-(2024). The interaction between warming and enrichment accelerates food-web
-simplification in freshwater systems. Ecology Letters, 27(8), e14480.
-https://doi.org/10.1111/ele.14480
-
-Danet, A., Bautista, S., Génin, A., Beckerman, A. P., Anthelme, F., & Kéfi, S.
-(2024). Species diversity promotes facilitation under stressful conditions.
-Oikos, n/a(n/a), e10303. https://doi.org/10.1111/oik.10303
-
-Johnson, T. F., Simmons, B. I., Millard, J., Strydom, T., Danet, A., Sweeny, A.,
-& Evans, C. (In press). Pressure to publish introduces LLM risks. Methods in
-Ecology and Evolution.
-
-## Published
-
-Danet, A., Giam, X., Olden, J. D., & Comte, L. (2024). Past and recent
-anthropogenic pressures drive rapid changes in riverine fish communities. Nature
-Ecology & Evolution, 1–12. https://doi.org/10.1038/s41559-023-02271-x
-
-Prié, V., Danet, A., Valentini, A., Lopes-Lima, M., Taberlet, P., Besnard, A.,
-Roset, N., Gargominy, O., & Dejean, T. (2023). Conservation assessment based on
-large-scale monitoring of eDNA: Application to freshwater mussels. Biological
-Conservation, 283, 110089. https://doi.org/10.1016/j.biocon.2023.110089
-
-Boyd, R., Powney, G., Burns, F., Danet, A., Duchenne, F., Grainger, M., Jarvis,
-S., Martin, G., Nilsen, E. B., Porcher, E., Stewart, G., Wilson, O., & Pescott,
-O. (2022). ROBITT: A tool for assessing the risk-of-bias in studies of temporal
-trends in ecology. In Methods in Ecology and Evolution (In press).
-https://doi.org/10.32942/osf.io/rhvey
-
-Bonnaffé, W., Danet, A., Legendre, S., & Edeline, E. (2021). Comparison of
-size-structured and species-level trophic networks reveals antagonistic effects
-of temperature on vertical trophic diversity at the population and species
-level. Oikos, 130, 1297–1309. https://doi.org/10.1111/oik.08173
-
-Danet, A., Mouchet, M., Bonnaffé, W., Thébault, E., & Fontaine, C. (2021).
-Species richness and food-web structure jointly drive community biomass and its
-temporal stability in fish communities. Ecology Letters, 24(11), 2364–2377.
-https://doi.org/10.1111/ele.13857
-
-Génin, A., Dutoit, T., Danet, A., Priol, A. le, & Kéfi, S. (2021). Grazing and
-the vanishing complexity of plant association networks in grasslands. Oikos,
-130, 541–552. https://doi.org/10.1111/oik.07850
-
-Danet, A., Schneider, F. D., Anthelme, F., & Kéfi, S. (2020). Indirect
-facilitation drives species composition and stability in drylands. Theoretical
-Ecology, 14, 189–203. https://doi.org/10.1007/s12080-020-00489-0
-
-Génin, A., Majumder, S., Sankaran, S., Danet, A., Guttal, V., Schneider, F. D.,
-& Kéfi, S. (2018). Monitoring ecosystem degradation using spatial data and the R
-package spatialwarnings. Methods in Ecology and Evolution, 9(10), 2067–2075.
-https://doi.org/10.1111/2041-210X.13058
-
-Génin, A., Majumder, S., Sankaran, S., Schneider, F. D., Danet, A., Berdugo, M.,
-Guttal, V., & Kéfi, S. (2018). Spatially heterogeneous stressors can alter the
-performance of indicators of regime shifts. Ecological Indicators, 94(1),
-520–533. https://doi.org/10.1016/j.ecolind.2017.10.071
-
-Danet, A., Anthelme, F., Gross, N., & Kéfi, S. (2018). Effects of indirect
-facilitation on functional diversity, dominance and niche differentiation in
-tropical alpine communities. Journal of Vegetation Science, 29(5), 835–846.
-https://doi.org/10.1111/jvs.12667
-
-Danet, A., Kéfi, S., Meneses, R. I., & Anthelme, F. (2017). Nurse species and
-indirect facilitation through grazing drive plant community functional traits in
-tropical alpine peatlands. Ecology and Evolution, 7(24), 11265–11276.
-https://doi.org/10.1002/ece3.3537
-
-Robert, S., Jean, B., Alain, D., & René, D. (2013). Effect of selective
-precommercial thinning on balsam fir stand yield and structure. The Forestry
-Chronicle, 89(06), 759–768. https://doi.org/10.5558/tfc2013-138
-
-Danet, A. (2017). Plant-plant interactions in a community background: An experimental approach in Spain and in Bolivia [Université de Montpellier]. http://www.theses.fr/2017MONTT160

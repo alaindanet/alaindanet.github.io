@@ -14,7 +14,7 @@ website:
       - href: publications.qmd
       - about.qmd
   page-footer:
-    left: "Copyright 2023, Alain Danet"
+    left: "Copyright 2025, Alain Danet"
     right:
       - icon: github
         href: https://github.com/alaindanet

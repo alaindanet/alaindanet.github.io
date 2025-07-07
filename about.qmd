@@ -10,10 +10,11 @@ title: "About"
 
 # Experience
 
-- 2022- | Post-doc | University of Sheffield
-- 2021-2022 | Post-doc | Illinois State University
-- 2018-2021 | Post-doc | Natural History Museum of Paris
-- 2014-2017 | PhD in Biodiversity & Ecology | University of Montpellier
+- 2025 - | Permanent researcher | INRAE
+- 2022 - 2025 | Post-doc | University of Sheffield
+- 2021 - 2022 | Post-doc | Illinois State University
+- 2018 - 2021 | Post-doc | Natural History Museum of Paris
+- 2014 - 2017 | PhD in Biodiversity & Ecology | University of Montpellier
 
 
 This website has been generated using the fantastic documentation of [quarto](https://quarto.org/docs/websites/).

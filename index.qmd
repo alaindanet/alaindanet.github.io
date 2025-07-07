@@ -1,6 +1,6 @@
 ---
 title: Alain Danet
-image: img/sp-portrait.jpg
+image: img/alain_capybara_tanya.png
 alt-image: ""
 about:
   template: trestles
@@ -8,7 +8,7 @@ about:
   links:
     - icon: mailbox
       text: Mail
-      href: mailto:a.h.danet@sheffield.ac.uk
+      href: mailto:alain.danet@inrae.fr
     - icon: google
       text: Scholar
       href: https://scholar.google.com/citations?user=iijI6msAAAAJ&hl=en
@@ -19,19 +19,24 @@ about:
 
 :::{#hero-heading}
 
+I work as an INRAE researcher in [DECOD lab](https://www.umr-decod.fr/en) at Rennes in France.
 
-I am currently in post-doc at the University of Sheffield (UK) in [Pr Andrew
-Beckerman's lab](https://beckslab.github.io/website/). I am mainly working on
-how food web structure affect community stability and affect their response to
-environmental pressures. My research interests also cover biodiversity
-trends and positive interactions among species.
+My research aims to understand how anthropogenic pressures alter ecological
+communities and ultimately disrupt ecosystem functioning. This is a complex
+challenge because community responses emerge from both the diversity of
+species-specific reactions to environmental changes and the intricate networks
+of interactions among species. My work integrates these interaction networks
+into theoretical and applied ecology to address a central question: How do
+species interactions mediate the effects of environmental pressures on
+ecological systems—particularly in community assembly, ecosystem functioning,
+and stability?
 
 You can have a look at my [research projects](project.html) and my
-[publications](publications.html). You can retrieve my work on [google
+[publications](publications.html). You can also retrieve my work on [google
 scholar](https://scholar.google.com/citations?user=iijI6msAAAAJ&hl=en) and
 [research gate](https://www.researchgate.net/profile/Alain-Danet).
 
-You can reach me at [a.h.danet[at]sheffield.ac.uk](mailto:a.h.danet@sheffield.ac.uk).
+You can reach me at [alain.danet[at]inrae.fr](mailto:alain.danet@inrae.fr).
 
 :::
 
