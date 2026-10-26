@@ -1,9 +1,10 @@
 ---
-title: Alain Danet
+title: Biodiversity & ecosystem dynamics
 image: img/alain_capybara_tanya.png
-alt-image: ""
+alt-image: "Tanya Strydom"
 about:
-  template: trestles
+  template: solana
+  image-title: "An accurate caricature by Tanya Strydom"
   id: hero-heading
   links:
     - icon: mailbox
@@ -15,28 +16,31 @@ about:
     - icon: github
       text: Github
       href: https://github.com/alaindanet
+    - icon: person-workspace
+      text: INRAe webpage
+      href: https://www.umr-decod.fr/en/people/564
 ---
 
 :::{#hero-heading}
 
-I work as an INRAE researcher in [DECOD lab](https://www.umr-decod.fr/en) at Rennes in France.
+I do research at INRAE in the [DECOD](https://www.umr-decod.fr/en) research
+unit, based in Rennes (Brittany, France).
 
-My research aims to understand how anthropogenic pressures alter ecological
-communities and ultimately disrupt ecosystem functioning. This is a complex
-challenge because community responses emerge from both the diversity of
-species-specific reactions to environmental changes and the intricate networks
-of interactions among species. My work integrates these interaction networks
-into theoretical and applied ecology to address a central question: How do
-species interactions mediate the effects of environmental pressures on
-ecological systems—particularly in community assembly, ecosystem functioning,
-and stability?
+My research aims to advance our understanding of the feedbacks between
+biodiversity & ecosystem dynamics, of how anthropogenic pressures disrupt them,
+and ultimately develop knowledge that might help us to restore them.
 
-You can have a look at my [research projects](project.html) and my
-[publications](publications.html). You can also retrieve my work on [google
-scholar](https://scholar.google.com/citations?user=iijI6msAAAAJ&hl=en) and
-[research gate](https://www.researchgate.net/profile/Alain-Danet).
+My work combines the use of theoretical tools, long-term monitoring data,
+and experiments.
 
-You can reach me at [alain.danet[at]inrae.fr](mailto:alain.danet@inrae.fr).
+Informal contacts and enquiries are welcome.
 
 :::
 
+---
+# This puzzle is amazingly complex: biodiversity changes depend on the population
+# response diversity to environmental changes, which then scales at community
+# level through a complex network of interactions among populations. These
+# biodiversity dynamics determine ecosystem properties like the fluxes of biomass
+# across the ecosystem
+---
